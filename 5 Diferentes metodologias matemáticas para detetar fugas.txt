@@ -1,0 +1,19 @@
+"C:\Users\Francisco\Desktop\Projeto_licenciatura\5 metodos matematicos de detecao de falhas.pdf"
+
+In this research, we present five different methodologies to
+detect leaks in water distributions system based on an
+extended horizon analysis of pressure sensitivities. The first
+method, called Sensitiviy Matrix Binarization, is based on the
+transformation of real-valued sensitivities matrix to a binary
+matrix, according to a threshold. The second is the
+Correlation method, the third and fourth are the Euclidean
+distance and the Angle between vectors methods; the last
+method is the Least square Optimization method. The five
+methodologies were tested in simulation with two different
+water distribution systems named Hanoi and Quebra.
+
+Sensitiviy Matrix Binarization
+Correlation method
+Euclidean distance
+Angle between vectors methods
+Least square Optimization method

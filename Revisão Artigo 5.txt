@@ -1,0 +1,33 @@
+"C:\Users\Francisco\Desktop\Projeto_licenciatura\Robust Leakage Detection and Interval.pdf"Robust Leakage Detection and Interval
+
+
+O que fizerem? 
+Usando os sensores de pressao
+Detetam mudancas abruptas da pressao.
+Estimam locais de fuga.
+
+
+Como fizerem?
+Usando apenas sensores de pressao, e filtrando esses dados com Kalman Filter
+e integral acumulativo para amplificar esses valores, para demonstrar mais
+facilmente a falha.
+Depois uma funcao de curvatura e' aplicada
+e finalmente um metodo estatistico para estimar a localizacao com um nivel de
+confianca.
+
+
+
+Resultados/Conclusão
+Demostra melhores resultados que outros 2 metodos 
+com dados gerados.
+
+Comparando falsos alarmes
+CUSUM  MWA   Proposed Algorithm
+47	  53       9	
+
+
+
+
+
+
+

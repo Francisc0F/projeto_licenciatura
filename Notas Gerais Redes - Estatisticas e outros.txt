@@ -1,0 +1,19 @@
+NOTAS GERAIS 
+Fonte principal de pesquisa
+https://scholar.google.com/scholar?hl=pt-PT&as_sdt=0%2C5&q=water+leakage+detection+system+algorithm&oq=
+
+
+Tecnicas de deteção de falhas https://ieeexplore.ieee.org/abstract/document/8052087
+
+
+Estatisticas etc
+
+Estados Unidos dados da EPA(US Enviromental Protection Agency)
+https://www.epa.gov/watersense/statistics-and-facts
+
+Abordagens ao problema - UK
+Tipos de Fugas de água na rede - plano de redução de fugas
+https://www.thameswater.co.uk/about-us/performance/leakage-performance
+
+Abordagens para reduzir perdas 
+https://www.thameswater.co.uk/media-library/home/about-us/performance/our-leakage-performance/reducing-leaks.pdf

@@ -1,0 +1,30 @@
+file:///C:/Users/Francisco/Desktop/Projeto_licenciatura/Artigo1%20-%20Smart%20Pipeline%20Water%20Leakage%20Detection%20System.pdf
+Smart Pipeline Water Leakage Detection System
+
+O que fizerem? 
+
+Sistema de deteção de falhas de rede com sensores 
+de caudal na tubagem. Com atuadores 
+como vávulas solenoid para estancar a fuga.
+
+Como fizerem?
+O sensores são aplicados as tubagens e ligados 
+a um sistema externo wireless, 
+são também aplicadas vávulas solenoid que 
+também ligadas remotamente será ativadas para bloquear 
+a passagem de água e evitar maiores perdas e envia 
+um alerta para reparação.
+
+
+Resultados/Conclusão
+Sistema relativamente fácil de implementar.
+Foi possível detetar com sucesso diferenças 
+significativas nos valores de caudal em 2 sensores consecutivos.
+Que permitem a atuação das vávulas e emissão de alerta de fuga 
+detetado.
+ 
+
+
+
+
+

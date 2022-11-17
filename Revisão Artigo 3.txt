@@ -1,0 +1,57 @@
+C:\Users\Francisco\Desktop\Projeto_licenciatura\JWARP_2013032510150088
+Leakage Detection in Water Distribution Network Based
+on a New Heuristic Genetic Algorithm Model
+Reduction in Water Piping Networks
+
+
+[Identificação local de fugas]
+"The first one is the local leak detection methods: In this
+group, water distribution system (WDS) is being divided
+into several parts and for each part; leakage is searched
+by using various equipments [5]. Acoustic equipment,
+mass balance technique, thermography, ground-penetrating radar,
+ tracer gas, and video are the most popular methods. 
+These methods are costly, labor intensive and often limit 
+accuracy and none of them has proven to be
+completely successful"
+
+
+[Identificação global de fugas]
+"Network-monitoring system is installed and
+some information includes nodal pressures and pipe flows
+are recorded; then the network is analyzed to determine
+the leaky point [8]. Accurate determination of network parameters 
+is usually associated with some errors that
+roughness, nodal demands and valve statues are the most
+difficult ones to determine. Therefore, the simulated
+model results have some discrepancy with the pressure
+and flow measurement in networks. 
+
+
+O que fizerem? 
+Desenvolvimento de algoritmo de calibração de rede águas
+com diferentes parâmetros de otimização.
+Fase 1 classificação entre nós da rede com fugas e sem fugas.
+Para cada fase 1 todos os nós que a calculada saida de água é 
+superior a normal saida de agua so colocados nos nós com fugas,
+a lógica inversa serão colocados nos nós sem fugas.
+Usando muitos sensores de pressão nos nós.
+Permite localizar os nós com fugas.
+
+
+Como fizerem?
+Combinando um algoritmo genético com um processo de step by step 
+de eliminação dos nós que mostram menos carateristicas de fugas.
+Permite dimimuir a area de localização do nó com fugas.
+Conseguem tambem calcular os litros de perda por segundo.
+
+
+
+Resultados/Conclusão
+O projeto provou ser eficas em 2 projetos teóricos e 1 laboratorial
+identificando com sucesso a localização de falhas.
+
+
+
+
+

@@ -1,0 +1,30 @@
+file:///C:/Users/Francisco/Downloads/water-09-00773.pdf
+Leakage Detection and Estimation Algorithm for Loss
+Reduction in Water Piping Networks
+
+Parece bastante bom.
+
+O que fizerem? 
+Desenvolvimento de algoritmo através de dados de junções e 
+caracteristicas de tubagem prevé quais são as tubagens 
+criticas.
+
+Como fizerem?
+Através de dados sobre tubagem e calculando valores de possível 
+perda de água de cada ligação feito com análise hidraulica o calculo.
+Assim depois de detetar uma junção com um valor elevado procura todos 
+os tubos ligados.
+E vai marcando quais os tubos que são criticos.
+
+
+Resultados/Conclusão
+O algoritmo permite detetar e estimar segmentos criticos ou ramificacoes 
+que estao a experenciar perdas de agua que não sao visiveis e localizar 
+seccoes onde controlo de pressao deve ser feito.
+Pode ser usado para controlo geral do estado da rede.
+Nao identifica exatamente o local de fuga.
+
+
+
+
+

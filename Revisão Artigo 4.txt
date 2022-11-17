@@ -1,0 +1,29 @@
+"C:\Users\Francisco\Desktop\Projeto_licenciatura\Accuracy assessment of leak localisation method depending on available measurements.pdf"
+Accuracy assessment of leak localisation method
+ depending on available measurements.pdf
+
+
+O que fizerem? 
+Aplicaram um modelo matematico em que comparam 
+os valores de saida normal(entrada e agua  e sensores de pressao),
+com os mesmos numa situacao sem falhas, calculando um 
+R(diferenca pressao e caudal) num tempo Y - Y(normal).
+Conseguem visualizar heat map com variacoes de similaridade.
+
+Como fizerem?
+Correlacionam os dados de uma possivel falha com os valores atuais 
+e obteem valores similaridade (percentagem)  entre os mesmo valores
+todos os que obteem similaridades s > 99% sao centros de gravidade
+e s = 1 sao possiveis falhas.
+comparando com falhas simuladas.
+
+
+Resultados/Conclusão
+Descreve brevemente uma abordagem de localizacao de fuga aplicada com
+sucesso a uma area metropolitana de barcelona.
+
+
+
+
+
+
