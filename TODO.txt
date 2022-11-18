@@ -1,10 +1,10 @@
 -- https://citation.crosscite.org/
 
 - Novo capitulo, analise exploratoria anotar dados
+
 - Correlacao entre caudal mes e numero de intervencoes
 - Anotar conclusoes entre intervencoes e caudal
 - Anotar limpezas de dados
 
-- Ler sobre SVM support vector machine.
-- Ler sobre LSTM
+
 
