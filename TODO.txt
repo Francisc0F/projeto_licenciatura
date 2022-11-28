@@ -1,10 +1,25 @@
 -- https://citation.crosscite.org/
+--https://videoconf-colibri.zoom.us/j/933906891
+
+
+
 
 - Novo capitulo, analise exploratoria anotar dados
 
-- Correlacao entre caudal mes e numero de intervencoes
 - Anotar conclusoes entre intervencoes e caudal
 - Anotar limpezas de dados
+
+	
+
+TODO 
+ver zoom do graphic 
+
+histograma, semanal, mensal
+
+Ver caudais negativos
+
+Estudar - SVM, Ml regressor, 
+
 
 
 
